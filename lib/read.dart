@@ -10,8 +10,7 @@ class read extends StatefulWidget {
 }
 
 class _read extends State<read> {
-
-
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
